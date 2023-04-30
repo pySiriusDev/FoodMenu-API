@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-FoodmenuApplication<foodmenu>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "sirius.dev.foodmenu.FoodmenuApplication",
+      "projectName": "foodmenu",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
